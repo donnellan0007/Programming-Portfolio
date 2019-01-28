@@ -1,0 +1,41 @@
+body {
+    background-color: #1b1b1b
+}
+::selection {
+    background: rgb(106, 28, 207); /* WebKit/Blink Browsers */
+  }
+  ::-moz-selection {
+    background: rgb(106, 28, 207); /* Gecko Browsers */
+  }
+#header {
+
+    font-family: 'Staatliches', cursive;
+    left 0;
+    color: #42d7f4;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 35%;
+    width: 0%;
+    left: 24%;
+    font-size: 150px;
+}
+
+#designs {
+
+    font-family: 'Staatliches', cursive;
+    left 0;
+    color: #42d7f4;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 48%;
+    width: 0%;
+    left: 40%;
+    font-size: 150px;
+
+
+}
+

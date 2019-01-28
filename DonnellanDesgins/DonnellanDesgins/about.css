@@ -1,0 +1,109 @@
+body {
+    background-color: #1b1b1b
+
+}
+::selection {
+    background: #af1a1a; /* WebKit/Blink Browsers */
+  }
+  ::-moz-selection {
+    background: #af1a1a]; /* Gecko Browsers */
+  }
+#about {
+
+    font-family: 'Questrial', sans-serif;
+    left 0;
+    color: #42d7f4;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 10%;
+    width: 50%;
+    left: 15%;
+    font-size: 75px;
+}
+
+#me {
+
+    font-family: 'Questrial', sans-serif;
+    left 0;
+    color: white;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 20%;
+    width: 76%;
+    left: 15%;
+    font-size: 20px;
+}
+#aus {
+
+    font-family: 'Questrial', sans-serif;
+    left 0;
+    color: white;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 24%;
+    width: 76%;
+    left: 12%;
+    font-size: 20px;
+}
+#code {
+
+    font-family: 'Questrial', sans-serif;
+    left 0;
+    color: white;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 28%;
+    width: 76%;
+    left: 17%;
+    font-size: 20px;
+}
+#pro {
+
+    font-family: 'Muli', sans-serif;
+    left 0;
+    color: #e59a10;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 45%;
+    width: 76%;
+    left: 10%;
+    font-size: 20px;
+}
+#c {
+
+    font-family: 'Poppins', sans-serif;
+    left 0;
+    color: white;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 49%;
+    width: 76%;
+    left: 12.3%;
+    font-size: 20px;
+}
+#web {
+
+    font-family: 'Poppins', sans-serif;
+    left 0;
+    color: white;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 49%;
+    width: 76%;
+    left: 12.3%;
+    font-size: 20px;
+}

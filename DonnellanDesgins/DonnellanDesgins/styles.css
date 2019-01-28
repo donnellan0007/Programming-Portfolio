@@ -1,0 +1,138 @@
+body {
+    background-color: #1b1b1b;
+}
+::selection {
+    background: rgb(106, 28, 207); /* WebKit/Blink Browsers */
+  }
+  ::-moz-selection {
+    background: rgb(106, 28, 207); /* Gecko Browsers */
+  }
+#header {
+
+    font-family: 'Questrial', sans-serif;
+    left 0;
+    color: #42d7f4;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 35%;
+    width: 0%;
+    left: 24%;
+    font-size: 150px;
+}
+
+#designs {
+
+    font-family: 'Questrial', sans-serif;
+    left 0;
+    color: #42d7f4;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 48%;
+    width: 0%;
+    left: 40%;
+    font-size: 150px;
+
+
+}
+
+#learn {
+    font-family: 'Raleway', sans-serif;
+    left 0;
+    color: white;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 10%;
+    width: 50%;
+    left: 1%;
+    font-size: 20px;
+
+
+}
+
+#fiverr {
+    font-family: 'Raleway', sans-serif;
+    left 0;
+    color: white;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 30%;
+    width: 50%;
+    left: 1%;
+    font-size: 20px;
+    font-weight: 900;
+}
+#port {
+    font-family: 'Raleway', sans-serif;
+    left 0;
+    color: white;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 35%;
+    width: 10%;
+    left: 1%;
+    font-size: 20px;
+}
+#games {
+    font-family: 'Raleway', sans-serif;
+    left 0;
+    color: white;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 70%;
+    width: 25%;
+    left: 1%;
+    font-size: 20px;
+}
+
+#insp {
+    font-family: 'Montserrat', sans-serif;
+    left 0;
+    color: white;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 60%;
+    width: 25%;
+    left: 44%;
+    font-size: 20px;
+}
+
+#awk {
+    font-family: 'Montserrat', sans-serif;
+    left 0;
+    color: white;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 63%;
+    width: 25%;
+    left: 40%;
+    font-size: 20px;
+}
+
+#terms {
+    font-family: 'Montserrat', sans-serif;
+    left 0;
+    color: white;
+    line-height: 196px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 2%;
+    width: 7%;
+    left: 92%;
+    font-size: 10px;
+}
